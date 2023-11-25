@@ -1,0 +1,11 @@
+{
+    "name": "openmage-strict/module-persistent",
+    "description": "Mage_Persistent",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-adminhtml": "*",
+        "openmage-strict/module-checkout": "*"
+    }
+}

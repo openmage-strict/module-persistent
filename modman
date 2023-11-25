@@ -1,0 +1,7 @@
+src/app/code/core/Mage/Persistent/                              app/code/core/Mage/Persistent/
+src/app/design/frontend/base/default/layout/persistent.xml      app/design/frontend/base/default/layout/persistent.xml
+src/app/design/frontend/base/default/template/persistent/       app/design/frontend/base/default/template/persistent/
+src/app/design/frontend/rwd/default/layout/persistent.xml       app/design/frontend/rwd/default/layout/persistent.xml
+src/app/design/frontend/rwd/default/template/persistent/        app/design/frontend/rwd/default/template/persistent/
+src/app/etc/modules/Mage_Persistent.xml                         app/etc/modules/Mage_Persistent.xml
+src/app/locale/en_US/Mage_Persistent.csv                        app/locale/en_US/Mage_Persistent.csv
