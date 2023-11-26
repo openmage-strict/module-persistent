@@ -5,7 +5,7 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-adminhtml": "*",
-        "openmage-strict/module-checkout": "*"
+        "openmage-strict/module-adminhtml": "^120.2",
+        "openmage-strict/module-checkout": "^120.2"
     }
 }
